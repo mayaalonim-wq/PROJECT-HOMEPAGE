@@ -1,29 +1,28 @@
-# FitMe – דף בית
+# FitMe – Homepage
 
-## תיאור כללי
-FitMe הוא אתר אינטרנט שמטרתו לסייע למשתמשים בבניית שגרה בריאה יומיומית.
-דף הבית מציג מבוא למערכת, המלצה יומית, ואפשרויות מרכזיות כמו אימונים, תזונה, שתייה והערות אישיות.
+## General Description
+FitMe is a website designed to help users build a healthy daily routine.
+The homepage presents an introduction to the system, a daily recommendation, and key features such as workouts, nutrition, hydration, and personal notes.
 
-הדף מהווה חלק מפרויקט מסכם בקורס תכנות ווב, ומדמה את דף הבית של המוצר הסופי.
-
+The page is part of a final project in a Web Programming course and simulates the homepage of the final product.
 
 ---
 
-## קישור לאתר
-ניתן לצפות בדף הבית דרך GitHub Pages בקישור הבא:  
+## Website Link
+The homepage is available via GitHub Pages at the following link:  
 https://mayaalonim-wq.github.io/PROJECT-HOMEPAGE/
 
 ---
-## מטרת הדף
-מטרת דף הבית היא:
-- להציג את רעיון המערכת בצורה ברורה וידידותית
-- לאפשר ניווט ראשוני בין אזורי האתר
-- לשמש כבסיס להמשך פיתוח האתר בפרויקט המלא
+
+## Page Objective
+The purpose of the homepage is to:
+- Present the system idea in a clear and user-friendly way  
+- Enable initial navigation between the main areas of the site  
+- Serve as a foundation for further development of the full project  
 
 ---
----
 
-## מבנה הקבצים# PROJECT-HOMEPAGE
+## File Structure
 PROJECT-HOMEPAGE/
 │
 ├── index.html
@@ -34,20 +33,19 @@ PROJECT-HOMEPAGE/
 
 ---
 
-## פירוט מבנה הדף
-- *Header* – כולל תפריט ניווט עליון ולוגו האתר  
-- *Hero Section* – אזור פתיחה עם טקסט הסבר ותמונה מרכזית  
-- *המלצה יומית* – הצגת פעולות יומיות לשגרה בריאה  
-- *כרטיסי תוכן* – הצגת אפשרויות עיקריות: אימונים, תזונה, שתייה והערות  
-- *Footer* – מידע כללי וניווט משני
+## Page Structure Overview
+- *Header* – Includes the top navigation menu and the site logo  
+- *Hero Section* – Introductory section with descriptive text and a central image  
+- *Daily Recommendation* – Displays daily actions for maintaining a healthy routine  
+- *Content Cards* – Presents the main features: workouts, nutrition, hydration, and notes  
+- *Footer* – General information and secondary navigation  
 
 ---
 
-## רספונסיביות
-הדף מותאם לגדלי מסך שונים:
-- מחשב
-- טאבלט
-- מובייל
+## Responsiveness
+The page is responsive and adapted to different screen sizes:
+- Desktop  
+- Tablet  
+- Mobile  
 
-ההתאמה בוצעה באמצעות Media Queries ו־Flexbox.
-
+Responsiveness was implemented using Media Queries and Flexbox.
